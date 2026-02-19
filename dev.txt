@@ -1,0 +1,8 @@
+hello world 
+If you want, I can also explain:
+
+Difference between checkout and switch
+
+When to create branches (best practice)
+
+How teams use main and dev
