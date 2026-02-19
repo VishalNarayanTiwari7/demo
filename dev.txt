@@ -5,4 +5,5 @@ Difference between checkout and switch
 
 When to create branches (best practice)
 
-How teams use main and dev
+How teams use main and dev 
+echo "added changes"
